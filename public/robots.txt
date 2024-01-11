@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.neuronsinc.com
+
+# Sitemaps
+Sitemap: https://www.neuronsinc.com/sitemap.xml
